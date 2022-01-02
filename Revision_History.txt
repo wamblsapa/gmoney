@@ -1,0 +1,48 @@
+04042020v3
+-Added favicon
+-Reposition Tagline under Logo
+
+04052020v1
+-added About
+
+04062020v1
+-added print receipt and save copy to server 
+-improve txn code
+
+04062020v2
+-added receipt for claimed transactions
+-improved send receipt form
+-added sample screenshots
+
+04072020v1
+-added logo on both send or receive receipt
+-added Admin button
+-added User Management for admin
+
+04102020v1
+-added view transactions (emp can view only his transactions white admin can view all users)
+
+04102020v2
+-added filter by date range in view transactions
+
+04112020v1
+-added " | LDL Express Padala" in title
+
+04122020v1
+-declaring global variables
+-improved
+
+04122020v2
+-improved view transactions
+
+04122020v3
+-improved filtering
+
+04122020v4
+-fix fpdf bugs
+
+04152020v1
+-improved search filtering 
+
+04162020v1
+-improved search filtering
